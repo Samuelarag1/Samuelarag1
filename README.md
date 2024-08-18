@@ -9,12 +9,9 @@
 - 👥 Co-work is a must
 - 📩 How to reach me: **samuelaragon616@gmail.com**
 
-## 📊 My last contributions | 🤹🏽‍♂️ Top Languages
+## 🤹🏽‍♂️ Top Languages
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://myreadme.vercel.app/api/embed/samuelarag1?panels=userstatistics,toprepositories" alt="reimaginedreadme" style="max-width: 49%; height: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarag1&layout=donut" alt="Top Langs" style="max-width: 49%; height: auto;"/>
-</div>
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelarag1&show_icons=true&theme=radical)
 
 ## 🌟Best Projects
 
@@ -25,6 +22,10 @@
 ## 🏆 Github Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=samuelarag1&theme=juicyfresh&no-bg=true" />
+
+## 📊 My last contributions
+
+<img src="https://myreadme.vercel.app/api/embed/samuelarag1?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" style="max-width: 49%; height: auto;"/>
 
 ## 📌Networks
 
