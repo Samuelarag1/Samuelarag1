@@ -9,9 +9,12 @@
 - 👥 Co-work is a must
 - 📩 How to reach me: **samuelaragon616@gmail.com**
 
-## 📊 My last contributions
+## 📊 My last contributions | 🤹🏽‍♂️ Top Languages
 
-<img src="https://myreadme.vercel.app/api/embed/samuelarag1?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://myreadme.vercel.app/api/embed/samuelarag1?panels=userstatistics,toprepositories" alt="reimaginedreadme" style="max-width: 49%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarag1&layout=donut" alt="Top Langs" style="max-width: 49%; height: auto;"/>
+</div>
 
 ## 🌟Best Projects
 
@@ -25,8 +28,5 @@
 
 ## 📌Networks
 
-[![Static Badge](https://img.shields.io/badge/Linkedin-Samuelarag1-blue?logo=linkedin&labelColor=blue&color=black)](https://www.linkedin.com/in/samuelarag1/)
-
-[![Static Badge](https://img.shields.io/badge/Gmail-samuelaragon616-green?logo=gmail&labelColor=%2334a853&color=black)]()
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelarag1&layout=donut)
+[![Website](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/samuelarag1/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://samuelaragon.vercel.app/)
