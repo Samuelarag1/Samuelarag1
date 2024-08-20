@@ -11,7 +11,7 @@
 
 ## 🤹🏽‍♂️ Top Languages
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelarag1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelarag1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟Best Projects
 
