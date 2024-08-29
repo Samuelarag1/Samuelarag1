@@ -2,8 +2,6 @@
 
 ## Hi 👋🏽, Im a Full-Stack Dev, with knowledgement in BackEnd, FrontEnd & AI.
 
-> Expertice in microservices.
-
 - 👨🏽‍💻 Im currently work in Kemi's Software
 - 🙌 Im currentlly learning AI & Deep learning
 - 👥 Co-work is a must
