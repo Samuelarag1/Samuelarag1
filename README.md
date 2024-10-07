@@ -20,11 +20,6 @@
 ## 🏆 Github Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=samuelarag1&theme=juicyfresh&no-bg=true" />
-
-## 📊 My last contributions
-
-<img src="https://myreadme.vercel.app/api/embed/samuelarag1?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" style="max-width: 49%; height: auto;"/>
-
 ## 📌Networks
 
 [![Website](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/samuelarag1/)
