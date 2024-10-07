@@ -20,6 +20,7 @@
 ## 🏆 Github Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=samuelarag1&theme=juicyfresh&no-bg=true" />
+
 ## 📌Networks
 
 [![Website](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/samuelarag1/)
