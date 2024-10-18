@@ -1,9 +1,8 @@
 # Samuel Aragon | Full-Stack Dev
 
-## Hi 👋🏽, Im a Full-Stack Dev, with knowledgement in BackEnd, FrontEnd & AI.
+## Hi 👋🏽, Im a Full-Stack Dev, with knowledgement in BackEnd and FrontEnd.
 
-- 👨🏽‍💻 Im currently work in Kemi's Software
-- 🙌 Im currentlly learning AI & Deep learning
+- 👨🏽‍💻 Im currently work in personal projects
 - 👥 Co-work is a must
 - 📩 How to reach me: **samuelaragon616@gmail.com**
 
