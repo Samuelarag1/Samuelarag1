@@ -1,6 +1,6 @@
 # Samuel Aragon | Full-Stack Dev
 
-## Hi 👋🏽, Im a Full-Stack Dev, with knowledgement in BackEnd and FrontEnd.
+## Hi 👋🏽, Im a Full-Stack Dev with knowledgement in BackEnd and FrontEnd.
 
 - 👨🏽‍💻 Im currently work in personal projects
 - 👥 Co-work is a must
