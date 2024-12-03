@@ -23,4 +23,4 @@
 ## 📌Networks
 
 [![Website](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/samuelarag1/)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://samuelaragon.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)]([https://samuelaragon.vercel.app](https://samuel-aragon.vercel.app/)/)
