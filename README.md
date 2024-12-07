@@ -2,7 +2,7 @@
 
 ## Hi 👋🏽, Im a Full-Stack Dev with knowledgement in BackEnd and FrontEnd.
 
-- 👨🏽‍💻 Im currently work in personal projects
+- 👨🏽‍💻 Im currently work in personal projects.
 - 👥 Co-work is a must.
 - 📩 How to reach me: **samuelaragon616@gmail.com**
 
