@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 Im currently work in personal projects.
 - 👥 Co-work is a must.
-- 📩 How to reach me: **samuelaragon616@gmail.com**.
+- 📩 How to reach me: **samuelaragon616@gmail.com**
 
 ## 🤹🏽‍♂️ Top Languages
 
@@ -20,7 +20,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=samuelarag1&theme=juicyfresh&no-bg=true" />
 
-## 📌Networks
+## 📌 Networks
 
 [![Website](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/samuelarag1/)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)]([https://samuelaragon.vercel.app](https://samuel-aragon.vercel.app/)/)
