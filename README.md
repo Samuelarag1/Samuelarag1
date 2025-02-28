@@ -4,6 +4,7 @@
 
 - 👨🏽‍💻 Im currently work in personal projects.
 - 👥 Co-work is a must.
+- 🌐 Developing digital solutions at samaragrech.com.
 - 📩 How to reach me: **samuelaragon616@gmail.com**.
 
 ## 🤹🏽‍♂️ Top Languages
