@@ -1,4 +1,4 @@
-# Samuel Aragon | Full-Stack Dev
+# Samuel Aragon | Software Developer
 
 ## Hi 👋🏽, Im a Full-Stack Dev with knowledgement in BackEnd and FrontEnd.
 
