@@ -1,4 +1,4 @@
-# Samuel Aragon | Frontend Developer en Wemox
+# Samuel Aragon | Frontend Developer
 ## Creando experiencias digitales modernas
 
 - 👨🏽‍💻 Mejorando día a día con proyectos personales
