@@ -3,7 +3,7 @@
 
 - 👨🏽‍💻 Mejorando día a día con proyectos personales
 - 👥 Disfruto del trabajo en equipo y la colaboración
-- 🌐 Construyendo soluciones digitales en [samaragtech.com](https://samaragtech.com)
+- 🌐 Construyendo soluciones digitales en Wemox
 - 📩 Cómo contactarme: **samuelaragon616@gmail.com**
 
 
